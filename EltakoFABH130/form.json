@@ -1,0 +1,7 @@
+{
+	"elements":
+	[
+		{ "name": "DeviceID", "type": "NumberSpinner", "caption": "DeviceID:" },
+		{ "name": "ReturnID", "type": "ValidationTextBox", "caption": "ReturnID:" }
+    ]
+}
