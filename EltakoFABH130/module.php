@@ -1,4 +1,4 @@
-<?
+<?php
 	class EltakoFABH130 extends IPSModule
 	{
 		public function Create() 
@@ -81,4 +81,3 @@
 		}
 			
 	}
-?>

@@ -1,7 +1,17 @@
 {
 	"elements":
 	[
-		{ "name": "DeviceID", "type": "NumberSpinner", "caption": "DeviceID:" },
-		{ "name": "ReturnID", "type": "ValidationTextBox", "caption": "ReturnID:" }
+		{
+			"name": "DeviceID",
+			"type": "NumberSpinner",
+			"caption": "Device ID",
+			"minimum": "0"
+		},
+		{
+			"name": "ReturnID",
+			"type": "ValidationTextBox",
+			"caption": "Return ID",
+			"minimum": "0"
+		}
     ]
 }
